@@ -83,6 +83,10 @@ img {
     margin-top: 0;
   }
 
+  .container {
+    padding: 0 20px;
+  }
+
   #lezioni .row>.left,
   #lezioni .row>.right, 
   #steps .row>.left,
@@ -106,4 +110,10 @@ img {
 #lezioni, #why {
   background-color: #f2f2cd;
 }
+
+#why img {
+  width: 40%;
+  height: 40%;
+}
+
 }
